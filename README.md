@@ -1,10 +1,10 @@
-Contexte.
+# Contexte.
 Un cabinet de recherche souhaite que vous développiez un outil
 avancé pour avoir des informations sur les personnes suivant leurs
 A.D.N.
 
 
-Sexe :
+# Sexe :
 • Des 7correspondent à une personne de sexe Masculin (ex : 7777x777x…)
 • Des 9correspondent à une personne de sexe Féminin (ex : 99999x99…)
 Age :
@@ -13,7 +13,7 @@ Age :
 • Moins de 6 caractères correspondent à une personne de Plus de 65 ans
 
 
-Niveau 1.
+# Niveau 1.
 Le premier patient arrive avec son échantillon d’ADN
 La machine vous donne le résultat suivant : 7777x77x777777x777777
 • Afficher le sexe de la personne
@@ -23,7 +23,7 @@ La machine vous donne le résultat suivant : 999x999999x999x999999x9999
 • Afficher si la personne à plus ou moins de 21 ans
 
 
-Niveau 2.
+# Niveau 2.
 Un troisième patient arrive dans la salle.
 • Demander le prénom, l’Age et le sexe du patient
 La personne vous donne son échantillon.
@@ -31,7 +31,7 @@ La machine calcule déchiffre le code suivant : 77x77x7
 • Indiquer si la personne à menti sur son âge ou non
 
 
-Niveau 3.
+# Niveau 3.
 Après vos premiers tests concluants, le DR. Gravenblood revient vers vous et vous informe
 qu’une nouvelle information vient d’être trouvé !
 Le nombre de x correspond à taille de la personne
