@@ -1,4 +1,4 @@
-##Contexte.
+Contexte.
 Un cabinet de recherche souhaite que vous développiez un outil
 avancé pour avoir des informations sur les personnes suivant leurs
 A.D.N.
